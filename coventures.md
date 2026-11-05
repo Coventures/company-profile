@@ -15,25 +15,27 @@ Meillä on kaksi tukijalkaa: yrittäjyys ja tekoäly.
 - **Tekoäly:** yhteinen tekoälyinfra tekee yhdestä kokeneesta tekijästä kokonaisen tiimin veroisen.
 
 ## Toimialat
-- Kasvu ja muutos (strategiasta toteutukseen)
-- Uuden liiketoiminnan rakentaminen
-- Tuotejohtaminen
-- Innovaatiokumppanuudet
-- Tekoälyn tuominen liiketoimintaan
+Olemme toimiala-agnostisia: meillä on kokemusta todella monelta eri toimialalta, koska yrittäjäosaaminen ja kasvun ja muutoksen haasteet ovat pitkälti samoja toimialasta riippumatta. Erityisen paljon kokemusta meillä on näiltä toimialoilta:
+- **Energia ja infrastruktuuri** (mm. Fortum, Helen, Enersense)
+- **Teollisuus, kemia ja valmistava teollisuus** (mm. ANDRITZ, Metso, Kemira, Kiilto, Stora Enso)
+- **Ohjelmistot ja teknologia** (mm. Visma, F-Secure, RELEX, Reaktor)
+- **Tietoliikenne ja tutkimuslähtöinen innovaatio** (mm. Nokia Bell Labs, Elisa)
+- **Rahoitus ja finanssipalvelut** (mm. Tribedo, S-Pankki, Euroclear)
+- **Media** (mm. Alma Media, Sanoma, Yle)
+
+Lisäksi kokemusta mm. rakentamisesta ja kiinteistöistä, HR:stä ja henkilöstöpalveluista, terveydestä ja life sciencesta, kaupasta ja kulutustuotteista, ympäristöpalveluista, avaruus- ja tietoturvateknologiasta, logistiikasta, elintarvikkeista ja peleistä.
 
 ## Missio
-Autamme yrityksiä kasvamaan ja uudistumaan yhdistämällä kokeneiden yrittäjien osaamisen ja tekoälyn.
+Missiomme on rakentaa parempi rakenne yrittäjäosaamisen hyödyntämiseen. Uskomme, että kokeneiden yrittäjien osaamisella voimme yhdessä ratkaista merkityksellisiä ongelmia. Kun yrittäjien kokemus ja vakiintuneiden yritysten resurssit yhdistetään, voimme taklata isompia ongelmia kuin kumpikaan yksin.
 
 ## Kohderyhmä
 ### Yritykset
-Kasvunälkäiset yritykset, joissa oman liiketoiminnan kasvu tai uudistuminen on johdon pöydällä: vakiintuneet suomalaiset ja pohjoismaiset yritykset sekä kasvuyritykset, jotka haluavat edetä nopeasti ja yrittäjämäisesti. Useimmat asiakkuutemme alkavat yhdestä rajatusta projektista.
+Eurooppalaiset yritykset, joiden johdon pöydällä on oman liiketoiminnan kasvu tai uudistuminen: vakiintuneet yritykset sekä kasvuyritykset, jotka haluavat edetä nopeasti ja yrittäjämäisesti. Asiakkainamme on useita monikansallisia pörssiyhtiöitä, ja työskentelemme mielellämme yritysten kanssa mistä maasta tahansa. Useimmat asiakkuutemme alkavat yhdestä rajatusta projektista.
 
 ### Päättäjäroolit
-- liiketoimintayksikön johtaja tai muu P&L-vastuullinen johtaja
-- toimitusjohtaja
-- strategia- ja kehitysjohtaja
-- innovaatiojohtaja, Head of Innovation / Corporate Ventures
-- tuotejohtaja (CPO, Head of Product)
+- **Suora asiakas (useimmiten):** P&L-vastuullinen liiketoimintajohtaja; pienemmissä yrityksissä toimitusjohtaja.
+- **Läheiset kumppanit:** tuotejohtaja, innovaatiojohtaja ja kehitysjohtaja. He ovat usein mukana projekteissamme, mutta eivät aina suoria asiakkaita.
+- **Sponsorit suuryrityksissä (liikevaihto yli 500 M€):** toimitusjohtaja ja konsernijohto. He avaavat ovia ja keskusteluyhteyden johtoryhmään, ja heille toimimme strategian toimeenpanon välineenä. Varsinaiset projektit tehdään yleensä liiketoimintajohdon kanssa.
 
 ## Tarjoama
 Olemme asiakkaan kumppani kasvussa ja muutoksessa. Autamme muotoilemaan strategian ja tuomme sen toteutukseen tarvittavan erikoisosaamisen, jossa yhdistyvät yrittäjäote, tekoäly ja syvä substanssiosaaminen. Tyypillisiä projekteja ovat uuden liiketoiminnan rakentaminen, tuotejohtaminen, innovaatiokumppanuudet ja tekoälyn tuominen liiketoimintaan. Toteutusmallina EiR: yksittäinen projekti, pidempi rooli (esim. interim-tuotejohtaja) tai jatkuva kumppanuus.
@@ -80,7 +82,7 @@ Olemme asiakkaan kumppani kasvussa ja muutoksessa. Autamme muotoilemaan strategi
 ```
 
 ## Lisäohjeet
-- Toimiala ei ratkaise sopivuutta. Ratkaisevaa on, onko yrityksen johdon pöydällä kasvu tai uudistuminen ja halu edetä yrittäjämäisesti.
+- Toimiala ei ratkaise sopivuutta, eikä maa: kaikki eurooppalaiset yritykset ovat potentiaalisia asiakkaita. Ratkaisevaa on, onko yrityksen johdon pöydällä kasvu tai uudistuminen ja halu edetä yrittäjämäisesti.
 - Vahvin signaali on ajankohtainen tapahtuma: uusi kasvu- tai muutostavoite, johtajavaihdos, avoin tuote- tai innovaatiojohdon rooli, uusi strategia, yrityskauppa, tekoälyhanke tai jumiin jäänyt uusi liiketoiminta.
 - Kohderyhmä ja avainsanat kuvaavat sopivuutta, eivät ostotarvetta. Perustele yhteydenotto aina ostajasta löydetyllä havainnolla.
 - Huono sopivuus: alkuvaiheen startupit ilman liikevaihtoa, pelkät kustannussäästöhankkeet ja organisaatiot, jotka haluavat strategiadokumentin ilman toteutusta.
