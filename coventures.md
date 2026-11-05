@@ -7,7 +7,7 @@ Meillä on kaksi tukijalkaa: yrittäjyys ja tekoäly.
 
 **Yrittäjyys ja EiR-malli.** Kumppanuutemme rakentuvat Entrepreneur-in-Residence (EiR) -mallille. Se avaa asiakkaalle oven uuteen talent pooliin: kokeneisiin yrittäjiin, jotka ovat itse kasvattaneet ja uudistaneet liiketoimintaa. Heitä ei saa palkattua eikä ostettua konsulttitalosta. EiR-mallin kautta asiakas hyödyntää heitä joustavasti juuri siihen, mikä kasvua ja uudistumista kulloinkin vauhdittaa, oli se yksittäinen projekti, pidempi rooli tai jatkuva kumppanuus. Olemme tehneet töitä yli 100 EiR:n kanssa.
 
-**Tekoäly.** Kaikki tekijämme työskentelevät yhteisen tekoälyinfran päällä. Siihen on koottu seitsemän vuoden ja yli 100 projektin opit: mikä on toiminut, mikä ei, ja millä tavalla asiat kannattaa tehdä. Asiakas ei siis saa käyttöönsä vain yhtä yrittäjää vaan koko verkostomme kertyneen kokemuksen, ja jokainen uusi projekti kartuttaa sitä edelleen.
+**Tekoäly.** Kaikki tekijämme työskentelevät yhteisen tekoälyinfran päällä. Siihen on koottu seitsemän vuoden ja yli 200 projektin opit: mikä on toiminut, mikä ei, ja millä tavalla asiat kannattaa tehdä. Asiakas ei siis saa käyttöönsä vain yhtä yrittäjää vaan koko verkostomme kertyneen kokemuksen, ja jokainen uusi projekti kartuttaa sitä edelleen.
 
 **Miksi yrittäjä eikä konsultti?** Perinteisessä konsultoinnissa maksat myös rakenteesta: pyramidista, jossa seniorit myyvät ja juniorit tekevät, ja organisaatiosta sen ympärillä. Meillä työn tekee suoraan kokenut yrittäjä. Malli on kustannustehokas kolmesta syystä:
 - **Yrittäjäosaaminen:** tekijä on ratkaissut saman ongelman omassa yrityksessään, joten opetteluun ei kulu aikaa ja päästään suoraan tekemiseen.
