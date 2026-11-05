@@ -1,6 +1,7 @@
-# CoVentures
+# Coventures (TESTI 5.11.2026 GitHubista)
 
 ## Yrityskuvaus
+**TESTIVERSIO:** tämä tiedosto on tuotu GitHubista (Coventures/company-profile), ei Bravedon alkuperäinen luonnos.
 Uusien yritystoimintojen rakentaja ja kiihdyttäjä.
 
 ## Toimialat
